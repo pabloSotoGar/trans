@@ -1,0 +1,2 @@
+# trans
+desarrollos mios 
